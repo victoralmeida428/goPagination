@@ -1,4 +1,4 @@
-module goPagination
+module github.com/victoralmeida428/goPagination
 
 go 1.23
 
